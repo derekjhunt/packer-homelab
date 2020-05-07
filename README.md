@@ -1,2 +1,2 @@
 # packer-homelab
-Packer scripts for my Homelab
+Packer templates for my Homelab
